@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    font-family: 'Poppins';
+}
+
+body{
+    background-color: rgb(246, 196, 130);
+}
+
+.menu{
+    background-image: url('./cheia.jpg');
+    padding: 70px;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: x-large;
+    justify-content: center;
+}
+
+.pai1 {
+    border-radius: 30px;
+    background-color: rgb(157, 106, 69);
+
+
+}
+
+.txt {
+    color: white;
+    padding-top: 25px;
+}
+
+.pai1 {
+    margin-top: 40px;
+    padding-top: 10px;
+    margin: 50px;
+}
+
+.pai3 {
+    color: white;
+    padding: 50px;
+    display: flex;
+    flex-direction: row ;
+
+}
+
+.pai2 {
+    font-size: 18px;
+   
+}
+
+.autor {
+    margin-left: 40px;
+    flex-direction: column;
+    width: 600px;
+    font-family: fonted;
+    
+}
+
+.imagemm {
+    margin-left: 200px;
+    box-shadow: 0px 0px 20px rgb(178, 175, 175);
+}
+
+
+.violino{
+    background-color: rgb(118, 82, 57);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 50px;
+    margin: 50px;
+}
+
+.i{
+    border-radius: 30px;
+}
+.ttt{
+    width: 900px;
+    color: white;
+    margin: 30px;
+}
